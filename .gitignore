@@ -3,4 +3,4 @@
 st
 *.diff
 config.h
-tags
+.tags
